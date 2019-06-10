@@ -1,0 +1,2 @@
+# magictable
+magic table
